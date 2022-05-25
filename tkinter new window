@@ -1,0 +1,6 @@
+from tkinter import *
+root = Tk()
+myLabel = Label(root, text="dasaru!")
+myLabel.pack()
+root.mainloop()
+
